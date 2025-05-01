@@ -1,10 +1,10 @@
 Package: FinalLIS4370
-Title: What the Package Does (One Line, Title Case)
+Title: Personal Finance Tracker
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Nadija", "Sulcaj", , "nadija@usf.edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description:  PersonalFinanceTracker helps users manage their personal finances by tracking expenses.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
